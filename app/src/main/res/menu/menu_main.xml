@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".stationList.MainActivity">
+    <item
+        android:id="@+id/add" android:icon="@android:drawable/ic_dialog_map" app:showAsAction="always" android:title="@string/add"/>
+    <item
+        android:id="@+id/back" android:icon="@drawable/back" app:showAsAction="always" android:title="@string/add"/>
+</menu>

@@ -1,0 +1,45 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:orientation="horizontal"
+android:padding="5dp"
+android:weightSum="4" >
+
+<ImageView
+    android:id="@+id/item_image"
+    android:layout_width="70dp"
+    android:layout_height="70dp"
+
+    android:src="@android:drawable/ic_media_play"
+    android:layout_weight="2"/>
+
+<TextView
+    android:id="@+id/namee"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Marshmallow"
+    android:textAppearance="?android:attr/textAppearanceSmall"
+    android:textColor="@android:color/black"
+    android:layout_weight="2"
+
+/>
+
+
+
+<ImageView
+    android:id="@+id/item_delete"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:src="@drawable/delete"
+    android:layout_weight="2"
+    />
+
+<ImageView
+    android:id="@+id/visualise"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:src="@drawable/see"
+    android:layout_weight="2"
+    />
+</LinearLayout>

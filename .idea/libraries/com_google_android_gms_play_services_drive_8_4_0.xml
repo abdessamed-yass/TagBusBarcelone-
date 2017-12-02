@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.google.android.gms:play-services-drive-8.4.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/1b295164dcc7def72ee8bf8913b74d69620f7d57/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/1b295164dcc7def72ee8bf8913b74d69620f7d57/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
